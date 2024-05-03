@@ -1,0 +1,207 @@
+
+body{
+    background-color: rgb(221, 169, 247);
+}
+
+.hey{
+    color: rgb(27, 188, 236);
+    margin-left: 500px;
+    font-weight: 900;
+    background-color: rgb(100, 52, 78);
+    display: inline-block;
+    border-radius: 10px;
+    height: 70px;
+    width: 350px;
+    padding-left: 20px;
+    margin-top: 300px;
+}
+.tarun{
+    color: rgb(240, 238, 79);
+}
+.front{
+    display: flex;
+    height: 500px;
+    width: 600px;
+    background-color: rgb(20, 23, 23);
+    color: white;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+.web{
+    color:rgb(158, 14, 158);
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 650px;  
+   
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 16px
+}
+.ho {
+    color: rgb(114, 4, 4);
+}
+ul li a {
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: darkslategray;
+    margin-top: -3%;
+}
+ul li a:hover{
+    color:white;
+    
+}
+.pro{
+    text-align: center;
+    background-color: black;
+    color: azure;
+    padding: 20px 0px;
+    font-family: cursive;
+}
+
+.info{
+    margin-left: 7%;
+    margin-top:100px; 
+    display: flex;
+    
+}
+
+.info h1{
+    font-size: 65px;
+    color: rgb(36,12,30);
+}
+.img2 img {
+    height: 400px;
+    width: 400px;
+}
+
+.img2{
+    margin-left: 180px;
+   
+}
+.info h3{
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+.info span{
+    color: orange;
+}
+.info a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    margin: 26px 0;
+    padding: 10px 18px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.info a:hover{
+    background-color: rgb(103, 103, 220);
+}
+
+.contacts{
+    background-color: rgb(170, 170, 193);
+    width: 500px;
+    height: 400px;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top:20px;
+    text-align: center;
+    margin-top: 110px;
+    margin-left: 400px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    
+}
+.myworks{
+    background-color: burlywood;
+}
+.sk{
+    display:inline-block;
+    margin-left: 560px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    background-color: black;
+    color: antiquewhite;
+    font-weight: 700;
+    width: 150px;
+    padding-left: 30px;
+   
+}
+.skill{
+    display: flex;
+    background-color:rgb(35, 35, 34);
+    color: aliceblue;
+    height: 600px;
+    border-radius: 20px;
+    
+}
+.html{
+    background-color: rgb(5, 190, 175);
+    margin-left: 50px;
+    margin-right:50px;
+    margin-top: 70px;
+    font-weight: 700;
+    padding-left: 20px;
+    border-radius: 10px;
+    height: 400px;
+    padding-right: 5px;
+}
+
+.titles{
+    background-color:rgb(216, 216, 196);
+    display: inline-block;
+    padding: 25px;
+    font-size: 25px;
+}
+.abt{
+    /* background-color: beige; */
+    font-size: 40px;
+    padding:10px;
+    text-align: center;
+    background-color: rgb(92, 91, 91);
+    display: flex;
+    
+}
+.cd{
+    display: inline-block;
+    background-color: rgb(165, 217, 217);
+    border-radius: 20px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.email{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 10px;
+    background-color:rgb(252, 180, 180);
+    margin-top: 20px;
+}
+.pn{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 100px;
+    background-color:rgb(252, 180, 180);
+    margin-top: 20px;
+}
+
+.locat{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 100px;
+    background-color:rgb(252, 180, 180);
+    margin-top: 20px;
+}
